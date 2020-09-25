@@ -21,6 +21,6 @@ file. Name the distance matrix file as 'Pdistance.txt'. <br>
  <b>b.</b> Write a script that uses 'Pdistance.txt' and generate phylogeney relationship between the
 organisms using UPGMA method.
 
-## Proceedure
+## Procedure
 - Scoring functions are used to generate a distance matrix in the part <b>a.</b> of the question.
 - The distance matrix is used to get the Phylogenetic Trees using the UPGMA method in part <b>b.</b>
